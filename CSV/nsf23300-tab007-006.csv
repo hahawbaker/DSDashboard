@@ -1,8 +1,4 @@
-Table 7-6,,,,,,,,,,
-"State or location of doctorate institution ranked by total number of research doctorate recipients, by field of doctorate and sex: 2021",,,,,,,,,,
-(Number),,,,,,,,,,
-State or location,Rank,Totala,Male,Female,Science and engineering,,,Non-science and engineering,,
-,,,,,Total,Male,Female,Total,Male,Female
+State or location,Rank,Total,Male,Female,Tot Sci Eng,Male Sci Eng,Female Sci Eng,Tot Non Sci,Male Non Sci,Female Non Sci
 California,1,"5,892","3,267","2,623","4,959","2,848","2,109",933,419,514
 Texas,2,"4,118","2,213","1,904","3,155","1,803","1,352",963,410,552
 New York,3,"3,871","2,030","1,840","2,975","1,653","1,321",896,377,519
